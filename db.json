@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Almond Milkshake",
+      "description": "A healthy and creamy milkshake made from roasted almonds.",
+      "price": 5.99,
+      "category": "Beverages",
+      "image": "https://via.placeholder.com/150?text=Almond+Milkshake",
+      "stock": 120
+    },
+    {
+      "id": 2,
+      "name": "Cashew Nut Butter",
+      "description": "Smooth and rich cashew nut butter, perfect for spreading.",
+      "price": 8.49,
+      "category": "Snacks",
+      "image": "https://via.placeholder.com/150?text=Cashew+Nut+Butter",
+      "stock": 45
+    },
+    {
+      "id": 3,
+      "name": "Organic Dates",
+      "description": "Sweet and natural organic dates, perfect for snacking or baking.",
+      "price": 3.79,
+      "category": "Fruits",
+      "image": "https://via.placeholder.com/150?text=Organic+Dates",
+      "stock": 250
+    },
+    {
+      "id": 4,
+      "name": "Pistachio Energy Bars",
+      "description": "A healthy, high-protein snack bar made with pistachios and oats.",
+      "price": 2.99,
+      "category": "Snacks",
+      "image": "https://via.placeholder.com/150?text=Pistachio+Energy+Bars",
+      "stock": 80
+    },
+    {
+      "id": 5,
+      "name": "Palm Sugar",
+      "description": "Pure, natural palm sugar for sweetening beverages and recipes.",
+      "price": 4.49,
+      "category": "Sweeteners",
+      "image": "https://via.placeholder.com/150?text=Palm+Sugar",
+      "stock": 150
+    }
+  ]
+}
