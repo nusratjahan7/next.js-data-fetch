@@ -5,7 +5,7 @@ const Navbar = () => {
     const navItems = [
         { name: "Home", path: "/" },
         { name: "Pages", path: "/page" },
-        { name: "Item 3", path: "/item3" },
+        { name: "Products", path: "/products" },
     ];
 
     return (
