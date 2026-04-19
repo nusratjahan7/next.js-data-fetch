@@ -45,5 +45,63 @@
       "image": "https://via.placeholder.com/150?text=Palm+Sugar",
       "stock": 150
     }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "price": 14.99,
+      "publicationYear": 1960,
+      "description": "A novel of warmth and humor, despite dealing with serious issues like racial injustice and the loss of innocence in the American South.",
+      "coverImage": "https://via.placeholder.com/150?text=To+Kill+a+Mockingbird",
+      "stock": 120
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian, Science Fiction",
+      "price": 13.99,
+      "publicationYear": 1949,
+      "description": "A chilling depiction of a totalitarian regime in a world of perpetual surveillance and propaganda.",
+      "coverImage": "https://via.placeholder.com/150?text=1984",
+      "stock": 85
+    },
+    {
+      "id": 3,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance, Classic",
+      "price": 9.99,
+      "publicationYear": 1813,
+      "description": "A witty and satirical novel that explores the complexities of social class and romantic relationships in early 19th-century England.",
+      "coverImage": "https://via.placeholder.com/150?text=Pride+and+Prejudice",
+      "stock": 60
+    },
+    {
+      "id": 4,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction, Classic",
+      "price": 10.99,
+      "publicationYear": 1925,
+      "description": "A tale of decadence, love, and betrayal in 1920s America, exploring the American Dream and its discontents.",
+      "coverImage": "https://via.placeholder.com/150?text=The+Great+Gatsby",
+      "stock": 100
+    },
+    {
+      "id": 5,
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "genre": "Adventure, Classic",
+      "price": 11.50,
+      "publicationYear": 1851,
+      "description": "The story of Captain Ahab's obsessive quest to kill Moby-Dick, a giant white whale, and his disastrous obsession with revenge.",
+      "coverImage": "https://via.placeholder.com/150?text=Moby-Dick",
+      "stock": 75
+    }
   ]
+  
 }
